@@ -1,0 +1,19 @@
+{
+  "name": "percy-ui",
+  "version": "1.0.0",
+  "description": "This is percy’s UI-Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puerile-1/percy-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puerile-1/percy-ui/issues"
+  },
+  "homepage": "https://github.com/puerile-1/percy-ui#readme"
+}
